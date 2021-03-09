@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443550664434",
+    "firebase_url": "https://ppe-training.firebaseio.com",
+    "project_id": "ppe-training",
+    "storage_bucket": "ppe-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443550664434:android:81f37aa46adb9c35fdf26b",
+        "android_client_info": {
+          "package_name": "com.noorahealth.ppetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443550664434-170doriqk8sji16o7ph1olmuq7qn67u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGVeJKqnuQbWK6oUFkpHbm-9pdhVxKX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443550664434-170doriqk8sji16o7ph1olmuq7qn67u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
